@@ -10,8 +10,6 @@
 
 **An interactive analytics dashboard that segments 6,000 e-commerce customers using RFM Analysis + K-Means Machine Learning**
 
-[🚀 Live Demo](#) · [📊 Dashboard Preview](#dashboard-preview) · [📁 Project Structure](#project-structure)
-
 </div>
 
 ---
@@ -43,27 +41,27 @@ By analyzing **6,000 customers** across **3 years of transaction data ($14.57M r
 
 ## 🖥️ Dashboard Preview
 
-> **4 fully interactive tabs — all with real-time sidebar filters**
+> **4 fully interactive tabs - all with real-time sidebar filters**
 
-### Tab 1 — 📊 RFM Segmentation
+### Tab 1 - 📊 RFM Segmentation
 - Customer distribution donut chart across 8 segments
 - Revenue by segment horizontal bar chart
 - Full RFM segment summary table
 - Recency vs Frequency heatmap (avg monetary value)
 
-### Tab 2 — 🤖 ML Clustering
+### Tab 2 - 🤖 ML Clustering
 - K-Means cluster distribution and revenue breakdown
 - Cluster profiles table with avg recency, frequency, spend
 - 3D scatter plot (Recency × Frequency × Monetary)
 - ML vs RFM cross-comparison heatmap
 - Elbow method + Silhouette analysis charts
 
-### Tab 3 — 📈 Revenue & Pareto
+### Tab 3 - 📈 Revenue & Pareto
 - Pareto dual-axis chart (top 20% → 65.4% of revenue)
 - Monthly revenue trend (Jan 2022 – Dec 2024)
 - Revenue breakdown by product category
 
-### Tab 4 — 🔄 Cohort Analysis
+### Tab 4 - 🔄 Cohort Analysis
 - Interactive cohort retention heatmap
 - Month-1 / Month-6 / Month-11 retention metrics
 - CLV distribution box plots by RFM segment
@@ -214,23 +212,19 @@ pip install streamlit pandas numpy scikit-learn plotly joblib
 
 ## 💡 Business Insights
 
-1. **Frequency drives value more than Recency** — customers who buy often spend more regardless of when they last bought
-2. **Top 20% → 65.4% of revenue** — VIP retention programs have 7× ROI vs mass campaigns
-3. **50% Month-1 churn** — biggest revenue leak; fixable with a simple post-purchase onboarding email sequence
-4. **ML finds sub-groups within RFM** — "Cannot Lose Them" needs 4 different campaigns, not 1
-5. **Electronics = 41.7% of revenue** — category-specific promotions here have outsized returns
-6. **Hibernating customers = low ROI** — reallocate budget to Potential Loyalists instead
+1. **Frequency drives value more than Recency** - customers who buy often spend more regardless of when they last bought
+2. **Top 20% → 65.4% of revenue** - VIP retention programs have 7× ROI vs mass campaigns
+3. **50% Month-1 churn** - biggest revenue leak; fixable with a simple post-purchase onboarding email sequence
+4. **ML finds sub-groups within RFM** - "Cannot Lose Them" needs 4 different campaigns, not 1
+5. **Electronics = 41.7% of revenue** - category-specific promotions here have outsized returns
+6. **Hibernating customers = low ROI** - reallocate budget to Potential Loyalists instead
 
 ---
 
 ## 📬 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manthan_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manthanpatel)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-</div>
+- Linkedin: [Manthan Patel](https://www.linkedin.com/in/manthan-patel18)
+- Portfolio: [Manthan Patel](https://manthan-portfolio-opal.vercel.app/)
 
 ---
 
