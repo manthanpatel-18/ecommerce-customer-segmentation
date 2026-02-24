@@ -7,10 +7,11 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**An interactive analytics dashboard that segments 6,000 e-commerce customers using RFM Analysis + K-Means Machine Learning**
-
 </div>
+
+#### An interactive analytics dashboard that segments 6,000 e-commerce customers using RFM Analysis + K-Means Machine Learning
+
+
 
 ---
 
