@@ -1,0 +1,17 @@
+{
+    "model_type": "K-Means Clustering",
+    "n_clusters": 8,
+    "features": [
+        "recency",
+        "frequency",
+        "monetary"
+    ],
+    "scaler": "StandardScaler",
+    "metrics": {
+        "silhouette_score": 0.3857944665159036,
+        "davies_bouldin_index": 0.8167452014930744,
+        "calinski_harabasz_score": 7645.657990988069
+    },
+    "total_customers": 6000,
+    "training_date": "2026-02-19 18:18:35"
+}
